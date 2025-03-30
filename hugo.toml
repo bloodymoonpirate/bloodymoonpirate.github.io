@@ -8,7 +8,8 @@ homepage = "https://quantpoet.github.io/home"
 tags = ["blog", "clean", "latex", "light", "minimal", "responsive", "simple"]
 features = ["blog"]
 min_version = "0.60"
-
+[params]
+  mainSections = ["posts"]
 [author]
   name = "Charaf ZGUIOUAR"
   homepage = ""
