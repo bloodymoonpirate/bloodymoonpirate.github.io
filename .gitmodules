@@ -1,3 +1,3 @@
-[submodule "themes/texify~"]
+[submodule "themes/texify"]
 	path = themes/texify
 	url = https://github.com/bloodymoonpirate/texify
