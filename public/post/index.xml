@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Quantitative Poetry</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://bloodymoonpirate.github.io/post/</link>
     <description>Recent content in Posts on Quantitative Poetry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Mar 2025 18:02:58 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test Math</title>
-      <link>http://localhost:1313/post/test-math/</link>
-      <pubDate>Sun, 30 Mar 2025 18:02:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/test-math/</guid>
-      <description>In this post, we&amp;rsquo;ll test mathematical notation.&#xA;Inline math: We can write an equation like $E = mc^2$ directly in the text.&#xA;Display math:&#xA;$$ \int_{-\infty}^{\infty} e^{-x^2} , dx = \sqrt{\pi} $$&#xA;More complex expressions:&#xA;$$ f(x) = \sum_{n=0}^{\infty} \frac{(-1)^n}{(2n+1)!} x^{2n+1} $$&#xA;Enjoy testing math!</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://bloodymoonpirate.github.io/post/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

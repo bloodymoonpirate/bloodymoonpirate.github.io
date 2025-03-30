@@ -1,10 +1,11 @@
-baseURL = 'https://quantpoet.github.io/'
+baseURL ="https://bloodymoonpirate.github.io/"
+
 languageCode = 'en-us'
 title = 'Quantitative Poetry'
 theme = "texify"
 licenselink = "https://github.com/francescotonini/texify/blob/master/LICENSE"
 description = "A minimal, latex-style hugo theme for personal blogging"
-homepage = "https://quantpoet.github.io/home"
+homepage = "https://bloodymoonpirate.github.io/home"
 tags = ["blog", "clean", "latex", "light", "minimal", "responsive", "simple"]
 features = ["blog"]
 min_version = "0.60"
@@ -14,3 +15,5 @@ min_version = "0.60"
   name = "Charaf ZGUIOUAR"
   homepage = ""
 
+relativeURLs = true
+canonifyURLs = true
