@@ -1,8 +1,6 @@
+googleAnalytics = ""
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-# ... your existing settings ...
-
-# Tell Hugo about Google Analytics (empty skips rendering in v0.111+)
-googleAnalytics = ""
