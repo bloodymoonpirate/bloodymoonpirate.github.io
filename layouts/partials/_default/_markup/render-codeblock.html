@@ -1,0 +1,9 @@
+{{ if eq .Language "math" }}
+  <div class="math-display">
+    <script type="math/tex; mode=display">
+    {{ .Inner | safeHTML }}
+    </script>
+  </div>
+{{ else }}
+  {{ .Inner | safeHTML }}
+{{ end }}

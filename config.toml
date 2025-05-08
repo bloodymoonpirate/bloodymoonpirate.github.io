@@ -1,3 +1,7 @@
+[params]
+math = true            # or  
+katex = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
