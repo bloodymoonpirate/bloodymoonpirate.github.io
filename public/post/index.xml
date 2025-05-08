@@ -1,33 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Quantitative Poetry</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Quantitative Poetry</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 00:58:56 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Structured Correlation — Math &amp; Geometry Test</title>
-      <link>http://localhost:1313/post/correlation-matrices/</link>
-      <pubDate>Fri, 09 May 2025 00:58:56 +0200</pubDate>
-      <guid>http://localhost:1313/post/correlation-matrices/</guid>
-      <description>Inline-math check — $E=mc^2$ — looks good.&#xA;1. Equicorrelation If all $n$ assets share the same pair-wise correlation $\rho$, then:&#xA;R(\rho) \;=\; \begin{pmatrix} 1 &amp;amp; \rho &amp;amp; \dots &amp;amp; \rho \\ \rho &amp;amp; 1 &amp;amp; \dots &amp;amp; \rho \\ \vdots &amp;amp; &amp;amp; \ddots&amp;amp; \vdots\\ \rho &amp;amp; \rho &amp;amp; \dots &amp;amp; 1 \end{pmatrix}. </description>
-    </item>
-    <item>
-      <title>Test Math Rendering</title>
-      <link>http://localhost:1313/post/test-math/</link>
-      <pubDate>Thu, 08 May 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/test-math/</guid>
-      <description>Inline $E=mc^2$.&#xA;$$ \int_{-\infty}^{\infty} e^{-x^2},dx = \sqrt{\pi} $$</description>
-    </item>
-    <item>
-      <title>My Interview experience with GoldmanSachs</title>
-      <link>http://localhost:1313/post/goldman/</link>
-      <pubDate>Mon, 31 Mar 2025 18:02:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/goldman/</guid>
-      <description>In a spring afternoon, I was</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Quantitative Poetry</title><link>https://bloodymoonpirate.github.io/post/</link><description>Recent content in Posts on Quantitative Poetry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 09 May 2025 00:58:56 +0200</lastBuildDate><atom:link href="https://bloodymoonpirate.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Structured Correlation — Math &amp; Geometry Test</title><link>https://bloodymoonpirate.github.io/post/correlation-matrices/</link><pubDate>Fri, 09 May 2025 00:58:56 +0200</pubDate><guid>https://bloodymoonpirate.github.io/post/correlation-matrices/</guid><description>Inline-math check — $E=mc^2$ — looks good.
+1. Equicorrelation If all $n$ assets share the same pair-wise correlation $\rho$, then:
+R(\rho) \;=\; \begin{pmatrix} 1 &amp;amp; \rho &amp;amp; \dots &amp;amp; \rho \\ \rho &amp;amp; 1 &amp;amp; \dots &amp;amp; \rho \\ \vdots &amp;amp; &amp;amp; \ddots&amp;amp; \vdots\\ \rho &amp;amp; \rho &amp;amp; \dots &amp;amp; 1 \end{pmatrix}.</description></item><item><title>Test Math Rendering</title><link>https://bloodymoonpirate.github.io/post/test-math/</link><pubDate>Thu, 08 May 2025 10:00:00 +0000</pubDate><guid>https://bloodymoonpirate.github.io/post/test-math/</guid><description>Inline $E=mc^2$.
+$$ \int_{-\infty}^{\infty} e^{-x^2},dx = \sqrt{\pi} $$</description></item><item><title>My Interview experience with GoldmanSachs</title><link>https://bloodymoonpirate.github.io/post/goldman/</link><pubDate>Mon, 31 Mar 2025 18:02:58 +0200</pubDate><guid>https://bloodymoonpirate.github.io/post/goldman/</guid><description>In a spring afternoon, I was</description></item></channel></rss>
