@@ -1,5 +1,3 @@
-googleAnalytics = ""
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
