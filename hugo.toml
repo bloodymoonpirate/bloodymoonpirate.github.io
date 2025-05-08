@@ -15,5 +15,5 @@ min_version = "0.60"
   name = "Charaf ZGUIOUAR"
   homepage = ""
 
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
