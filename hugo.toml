@@ -4,7 +4,7 @@ languageCode = 'en-us'
 title = 'Quantitative Poetry'
 theme = "texify"
 licenselink = "https://github.com/francescotonini/texify/blob/master/LICENSE"
-description = "A minimal, latex-style hugo theme for personal blogging"
+description = "A personal blog to maximize recall of important concepts, the only way to make sure you truly understood something is to sit down and try to write it down in the simplest terms. "
 homepage = "https://bloodymoonpirate.github.io/home"
 tags = ["blog", "clean", "latex", "light", "minimal", "responsive", "simple"]
 features = ["blog"]
@@ -16,4 +16,4 @@ min_version = "0.60"
   homepage = ""
 
 relativeURLs = false
-canonifyURLs = true
+canonifyURLs = false
